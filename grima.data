@@ -1,0 +1,4 @@
+classes=1
+train=../data/GrimaXray_data/coco/train.txt
+valid=../data/GrimaXray_data/coco/test.txt
+names=../data/GrimaXray_data/coco/grima.names
